@@ -15,3 +15,5 @@ opts_chunk$set(fig.width = 10, fig.height = 7)
 # read in from .csv
 bikes = read.csv("bikeData.csv", header = T, sep = ",")
 summary(bikes)
+
+# test
